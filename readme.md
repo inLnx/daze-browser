@@ -1,2 +1,3 @@
-What's this?
-An AI browser meant to save data
+# Daze Browser
+
+A browser I force people to use on my hotspot because google uses too much data
